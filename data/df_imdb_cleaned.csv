@@ -1,0 +1,1001 @@
+Movie,Released_Year,Genre,Director,IMDB_Rating
+The Shawshank Redemption,1994,Drama,Frank Darabont,9.3
+The Godfather,1972,Crime,Francis Ford Coppola,9.2
+The Dark Knight,2008,Action,Christopher Nolan,9.0
+The Godfather: Part Ii,1974,Crime,Francis Ford Coppola,9.0
+12 Angry Men,1957,Crime,Sidney Lumet,9.0
+The Lord Of The Rings: The Return Of The King,2003,Action,Peter Jackson,8.9
+Pulp Fiction,1994,Crime,Quentin Tarantino,8.9
+Schindler'S List,1993,Biography,Steven Spielberg,8.9
+Inception,2010,Action,Christopher Nolan,8.8
+Fight Club,1999,Drama,David Fincher,8.8
+The Lord Of The Rings: The Fellowship Of The Ring,2001,Action,Peter Jackson,8.8
+Forrest Gump,1994,Drama,Robert Zemeckis,8.8
+"Il Buono, Il Brutto, Il Cattivo",1966,Western,Sergio Leone,8.8
+The Lord Of The Rings: The Two Towers,2002,Action,Peter Jackson,8.7
+The Matrix,1999,Action,Lana Wachowski,8.7
+Goodfellas,1990,Biography,Martin Scorsese,8.7
+Star Wars: Episode V - The Empire Strikes Back,1980,Action,Irvin Kershner,8.7
+One Flew Over The Cuckoo'S Nest,1975,Drama,Milos Forman,8.7
+Hamilton,2020,Biography,Thomas Kail,8.6
+Gisaengchung,2019,Comedy,Bong Joon Ho,8.6
+Soorarai Pottru,2020,Drama,Sudha Kongara,8.6
+Interstellar,2014,Adventure,Christopher Nolan,8.6
+Cidade De Deus,2002,Crime,Fernando Meirelles,8.6
+Sen To Chihiro No Kamikakushi,2001,Animation,Hayao Miyazaki,8.6
+Saving Private Ryan,1998,Drama,Steven Spielberg,8.6
+The Green Mile,1999,Crime,Frank Darabont,8.6
+La Vita Ã¨ Bella,1997,Comedy,Roberto Benigni,8.6
+Se7En,1995,Crime,David Fincher,8.6
+The Silence Of The Lambs,1991,Crime,Jonathan Demme,8.6
+Star Wars,1977,Action,George Lucas,8.6
+Seppuku,1962,Action,Masaki Kobayashi,8.6
+Shichinin No Samurai,1954,Action,Akira Kurosawa,8.6
+It'S A Wonderful Life,1946,Drama,Frank Capra,8.6
+Joker,2019,Crime,Todd Phillips,8.5
+Whiplash,2014,Drama,Damien Chazelle,8.5
+The Intouchables,2011,Biography,Olivier Nakache,8.5
+The Prestige,2006,Drama,Christopher Nolan,8.5
+The Departed,2006,Crime,Martin Scorsese,8.5
+The Pianist,2002,Biography,Roman Polanski,8.5
+Gladiator,2000,Action,Ridley Scott,8.5
+American History X,1998,Drama,Tony Kaye,8.5
+The Usual Suspects,1995,Crime,Bryan Singer,8.5
+Lã©On,1994,Action,Luc Besson,8.5
+The Lion King,1994,Animation,Roger Allers,8.5
+Terminator 2: Judgment Day,1991,Action,James Cameron,8.5
+Nuovo Cinema Paradiso,1988,Drama,Giuseppe Tornatore,8.5
+Hotaru No Haka,1988,Animation,Isao Takahata,8.5
+Back To The Future,1985,Adventure,Robert Zemeckis,8.5
+Once Upon A Time In The West,1968,Western,Sergio Leone,8.5
+Psycho,1960,Horror,Alfred Hitchcock,8.5
+Casablanca,1942,Drama,Michael Curtiz,8.5
+Modern Times,1936,Comedy,Charles Chaplin,8.5
+City Lights,1931,Comedy,Charles Chaplin,8.5
+Capharnaã¼M,2018,Drama,Nadine Labaki,8.4
+Ayla: The Daughter Of War,2017,Biography,Can Ulkay,8.4
+Vikram Vedha,2017,Action,Gayatri,8.4
+Kimi No Na Wa.,2016,Animation,Makoto Shinkai,8.4
+Dangal,2016,Action,Nitesh Tiwari,8.4
+Spider-Man: Into The Spider-Verse,2018,Animation,Bob Persichetti,8.4
+Avengers: Endgame,2019,Action,Anthony Russo,8.4
+Avengers: Infinity War,2018,Action,Anthony Russo,8.4
+Coco,2017,Animation,Lee Unkrich,8.4
+Django Unchained,2012,Drama,Quentin Tarantino,8.4
+The Dark Knight Rises,2012,Action,Christopher Nolan,8.4
+3 Idiots,2009,Comedy,Rajkumar Hirani,8.4
+Taare Zameen Par,2007,Drama,Aamir Khan,8.4
+Wallâ·E,2008,Animation,Andrew Stanton,8.4
+The Lives Of Others,2006,Drama,Florian Henckel von Donnersmarck,8.4
+Oldeuboi,2003,Action,Chan-wook Park,8.4
+Memento,2000,Mystery,Christopher Nolan,8.4
+Mononoke-Hime,1997,Animation,Hayao Miyazaki,8.4
+Once Upon A Time In America,1984,Crime,Sergio Leone,8.4
+Raiders Of The Lost Ark,1981,Action,Steven Spielberg,8.4
+The Shining,1980,Drama,Stanley Kubrick,8.4
+Apocalypse Now,1979,Drama,Francis Ford Coppola,8.4
+Alien,1979,Horror,Ridley Scott,8.4
+Anand,1971,Drama,Hrishikesh Mukherjee,8.4
+Tengoku To Jigoku,1963,Crime,Akira Kurosawa,8.4
+Dr. Strangelove Or: How I Learned To Stop Worrying And Love The Bomb,1964,Comedy,Stanley Kubrick,8.4
+Witness For The Prosecution,1957,Crime,Billy Wilder,8.4
+Paths Of Glory,1957,Drama,Stanley Kubrick,8.4
+Rear Window,1954,Mystery,Alfred Hitchcock,8.4
+Sunset Blvd.,1950,Drama,Billy Wilder,8.4
+The Great Dictator,1940,Comedy,Charles Chaplin,8.4
+1917,2019,Drama,Sam Mendes,8.3
+Tumbbad,2018,Drama,Rahi Anil Barve,8.3
+Andhadhun,2018,Crime,Sriram Raghavan,8.3
+Drishyam,2013,Crime,Jeethu Joseph,8.3
+Jagten,2012,Drama,Thomas Vinterberg,8.3
+Jodaeiye Nader Az Simin,2011,Drama,Asghar Farhadi,8.3
+Incendies,2010,Drama,Denis Villeneuve,8.3
+Miracle In Cell No.7,2019,Drama,Mehmet Ada Ãztekin,8.3
+Babam Ve Oglum,2005,Drama,Ãagan Irmak,8.3
+Inglourious Basterds,2009,Adventure,Quentin Tarantino,8.3
+Eternal Sunshine Of The Spotless Mind,2004,Drama,Michel Gondry,8.3
+Amã©Lie,2001,Comedy,Jean-Pierre Jeunet,8.3
+Snatch,2000,Comedy,Guy Ritchie,8.3
+Requiem For A Dream,2000,Drama,Darren Aronofsky,8.3
+American Beauty,1999,Drama,Sam Mendes,8.3
+Good Will Hunting,1997,Drama,Gus Van Sant,8.3
+Bacheha-Ye Aseman,1997,Drama,Majid Majidi,8.3
+Toy Story,1995,Animation,John Lasseter,8.3
+Braveheart,1995,Biography,Mel Gibson,8.3
+Reservoir Dogs,1992,Crime,Quentin Tarantino,8.3
+Full Metal Jacket,1987,Drama,Stanley Kubrick,8.3
+Idi I Smotri,1985,Drama,Elem Klimov,8.3
+Aliens,1986,Action,James Cameron,8.3
+Amadeus,1984,Biography,Milos Forman,8.3
+Scarface,1983,Crime,Brian De Palma,8.3
+Star Wars: Episode Vi - Return Of The Jedi,1983,Action,Richard Marquand,8.3
+Das Boot,1981,Adventure,Wolfgang Petersen,8.3
+Taxi Driver,1976,Crime,Martin Scorsese,8.3
+The Sting,1973,Comedy,George Roy Hill,8.3
+A Clockwork Orange,1971,Crime,Stanley Kubrick,8.3
+2001: A Space Odyssey,1968,Adventure,Stanley Kubrick,8.3
+Per Qualche Dollaro In Piã¹,1965,Western,Sergio Leone,8.3
+Lawrence Of Arabia,1962,Adventure,David Lean,8.3
+The Apartment,1960,Comedy,Billy Wilder,8.3
+North By Northwest,1959,Adventure,Alfred Hitchcock,8.3
+Vertigo,1958,Mystery,Alfred Hitchcock,8.3
+Singin' In The Rain,1952,Comedy,Stanley Donen,8.3
+Ikiru,1952,Drama,Akira Kurosawa,8.3
+Ladri Di Biciclette,1948,Drama,Vittorio De Sica,8.3
+Double Indemnity,1944,Crime,Billy Wilder,8.3
+Citizen Kane,1941,Drama,Orson Welles,8.3
+M - Eine Stadt Sucht Einen Mã¶Rder,1931,Crime,Fritz Lang,8.3
+Metropolis,1927,Drama,Fritz Lang,8.3
+The Kid,1921,Comedy,Charles Chaplin,8.3
+Chhichhore,2019,Comedy,Nitesh Tiwari,8.2
+Uri: The Surgical Strike,2018,Action,Aditya Dhar,8.2
+K.G.F: Chapter 1,2018,Action,Prashanth Neel,8.2
+Green Book,2018,Biography,Peter Farrelly,8.2
+"Three Billboards Outside Ebbing, Missouri",2017,Comedy,Martin McDonagh,8.2
+Talvar,2015,Crime,Meghna Gulzar,8.2
+Baahubali 2: The Conclusion,2017,Action,S.S. Rajamouli,8.2
+Klaus,2019,Animation,Sergio Pablos,8.2
+Drishyam,2015,Crime,Nishikant Kamat,8.2
+Queen,2013,Adventure,Vikas Bahl,8.2
+Mandariinid,2013,Drama,Zaza Urushadze,8.2
+Bhaag Milkha Bhaag,2013,Biography,Rakeysh Omprakash Mehra,8.2
+Gangs Of Wasseypur,2012,Action,Anurag Kashyap,8.2
+Udaan,2010,Drama,Vikramaditya Motwane,8.2
+Paan Singh Tomar,2012,Action,Tigmanshu Dhulia,8.2
+El Secreto De Sus Ojos,2009,Drama,Juan JosÃ© Campanella,8.2
+Warrior,2011,Action,Gavin O'Connor,8.2
+Shutter Island,2010,Mystery,Martin Scorsese,8.2
+Up,2009,Animation,Pete Docter,8.2
+The Wolf Of Wall Street,2013,Biography,Martin Scorsese,8.2
+Chak De! India,2007,Drama,Shimit Amin,8.2
+There Will Be Blood,2007,Drama,Paul Thomas Anderson,8.2
+Pan'S Labyrinth,2006,Drama,Guillermo del Toro,8.2
+Toy Story 3,2010,Animation,Lee Unkrich,8.2
+V For Vendetta,2005,Action,James McTeigue,8.2
+Rang De Basanti,2006,Comedy,Rakeysh Omprakash Mehra,8.2
+Black,2005,Drama,Sanjay Leela Bhansali,8.2
+Batman Begins,2005,Action,Christopher Nolan,8.2
+"Swades: We, The People",2004,Drama,Ashutosh Gowariker,8.2
+Der Untergang,2004,Biography,Oliver Hirschbiegel,8.2
+Hauru No Ugoku Shiro,2004,Animation,Hayao Miyazaki,8.2
+A Beautiful Mind,2001,Biography,Ron Howard,8.2
+Hera Pheri,2000,Action,Priyadarshan,8.2
+"Lock, Stock And Two Smoking Barrels",1998,Action,Guy Ritchie,8.2
+L.A. Confidential,1997,Crime,Curtis Hanson,8.2
+Eskiya,1996,Crime,Yavuz Turgul,8.2
+Heat,1995,Crime,Michael Mann,8.2
+Casino,1995,Crime,Martin Scorsese,8.2
+Andaz Apna Apna,1994,Action,Rajkumar Santoshi,8.2
+Unforgiven,1992,Drama,Clint Eastwood,8.2
+Indiana Jones And The Last Crusade,1989,Action,Steven Spielberg,8.2
+Dom Za Vesanje,1988,Comedy,Emir Kusturica,8.2
+Tonari No Totoro,1988,Animation,Hayao Miyazaki,8.2
+Die Hard,1988,Action,John McTiernan,8.2
+Ran,1985,Action,Akira Kurosawa,8.2
+Raging Bull,1980,Biography,Martin Scorsese,8.2
+Stalker,1979,Drama,Andrei Tarkovsky,8.2
+Hã¶Stsonaten,1978,Drama,Ingmar Bergman,8.2
+The Message,1976,Biography,Moustapha Akkad,8.2
+Sholay,1975,Action,Ramesh Sippy,8.2
+Monty Python And The Holy Grail,1975,Adventure,Terry Gilliam,8.2
+The Great Escape,1963,Adventure,John Sturges,8.2
+To Kill A Mockingbird,1962,Crime,Robert Mulligan,8.2
+Yã´Jinbã´,1961,Action,Akira Kurosawa,8.2
+Judgment At Nuremberg,1961,Drama,Stanley Kramer,8.2
+Some Like It Hot,1959,Comedy,Billy Wilder,8.2
+Smultronstã¤Llet,1957,Drama,Ingmar Bergman,8.2
+Det Sjunde Inseglet,1957,Drama,Ingmar Bergman,8.2
+Du Rififi Chez Les Hommes,1955,Crime,Jules Dassin,8.2
+Dial M For Murder,1954,Crime,Alfred Hitchcock,8.2
+Tã´Kyã´ Monogatari,1953,Drama,YasujirÃ´ Ozu,8.2
+Rashã´Mon,1950,Crime,Akira Kurosawa,8.2
+All About Eve,1950,Drama,Joseph L. Mankiewicz,8.2
+The Treasure Of The Sierra Madre,1948,Adventure,John Huston,8.2
+To Be Or Not To Be,1942,Comedy,Ernst Lubitsch,8.2
+The Gold Rush,1925,Adventure,Charles Chaplin,8.2
+Sherlock Jr.,1924,Action,Buster Keaton,8.2
+Portrait De La Jeune Fille En Feu,2019,Drama,CÃ©line Sciamma,8.1
+Pink,2016,Drama,Aniruddha Roy Chowdhury,8.1
+Koe No Katachi,2016,Animation,Naoko Yamada,8.1
+Contratiempo,2016,Crime,Oriol Paulo,8.1
+Ah-Ga-Ssi,2016,Drama,Chan-wook Park,8.1
+Mommy,2014,Drama,Xavier Dolan,8.1
+Haider,2014,Action,Vishal Bhardwaj,8.1
+Logan,2017,Action,James Mangold,8.1
+Room,2015,Drama,Lenny Abrahamson,8.1
+Relatos Salvajes,2014,Comedy,DamiÃ¡n Szifron,8.1
+Soul,2020,Animation,Pete Docter,8.1
+Kis Uykusu,2014,Drama,Nuri Bilge Ceylan,8.1
+Pk,2014,Comedy,Rajkumar Hirani,8.1
+Omg: Oh My God!,2012,Comedy,Umesh Shukla,8.1
+The Grand Budapest Hotel,2014,Adventure,Wes Anderson,8.1
+Gone Girl,2014,Drama,David Fincher,8.1
+ÃKami Kodomo No Ame To Yuki,2012,Animation,Mamoru Hosoda,8.1
+Hacksaw Ridge,2016,Biography,Mel Gibson,8.1
+Inside Out,2015,Animation,Pete Docter,8.1
+Barfi!,2012,Comedy,Anurag Basu,8.1
+12 Years A Slave,2013,Biography,Steve McQueen,8.1
+Rush,2013,Action,Ron Howard,8.1
+Ford V Ferrari,2019,Action,James Mangold,8.1
+Spotlight,2015,Biography,Tom McCarthy,8.1
+Song Of The Sea,2014,Animation,Tomm Moore,8.1
+Kahaani,2012,Mystery,Sujoy Ghosh,8.1
+Zindagi Na Milegi Dobara,2011,Comedy,Zoya Akhtar,8.1
+Prisoners,2013,Crime,Denis Villeneuve,8.1
+Mad Max: Fury Road,2015,Action,George Miller,8.1
+A Wednesday,2008,Action,Neeraj Pandey,8.1
+Gran Torino,2008,Drama,Clint Eastwood,8.1
+Harry Potter And The Deathly Hallows: Part 2,2011,Adventure,David Yates,8.1
+Okuribito,2008,Drama,YÃ´jirÃ´ Takita,8.1
+Hachi: A Dog'S Tale,2009,Biography,Lasse HallstrÃ¶m,8.1
+Mary And Max,2009,Animation,Adam Elliot,8.1
+How To Train Your Dragon,2010,Animation,Dean DeBlois,8.1
+Into The Wild,2007,Adventure,Sean Penn,8.1
+No Country For Old Men,2007,Crime,Ethan Coen,8.1
+Lage Raho Munna Bhai,2006,Comedy,Rajkumar Hirani,8.1
+Million Dollar Baby,2004,Drama,Clint Eastwood,8.1
+Hotel Rwanda,2004,Biography,Terry George,8.1
+Taegukgi Hwinalrimyeo,2004,Action,Je-kyu Kang,8.1
+Before Sunset,2004,Drama,Richard Linklater,8.1
+Munna Bhai M.B.B.S.,2003,Comedy,Rajkumar Hirani,8.1
+Salinui Chueok,2003,Crime,Bong Joon Ho,8.1
+Dil Chahta Hai,2001,Comedy,Farhan Akhtar,8.1
+Kill Bill: Vol. 1,2003,Action,Quentin Tarantino,8.1
+Finding Nemo,2003,Animation,Andrew Stanton,8.1
+Catch Me If You Can,2002,Biography,Steven Spielberg,8.1
+Amores Perros,2000,Drama,Alejandro G. IÃ±Ã¡rritu,8.1
+"Monsters, Inc.",2001,Animation,Pete Docter,8.1
+"Shin Seiki Evangelion Gekijã´-Ban: Air/Magokoro Wo, Kimi Ni",1997,Animation,Hideaki Anno,8.1
+Lagaan: Once Upon A Time In India,2001,Adventure,Ashutosh Gowariker,8.1
+The Sixth Sense,1999,Drama,M. Night Shyamalan,8.1
+La Leggenda Del Pianista Sull'Oceano,1998,Drama,Giuseppe Tornatore,8.1
+The Truman Show,1998,Comedy,Peter Weir,8.1
+"Crna Macka, Beli Macor",1998,Comedy,Emir Kusturica,8.1
+The Big Lebowski,1998,Comedy,Joel Coen,8.1
+Fa Yeung Nin Wah,2000,Drama,Kar-Wai Wong,8.1
+Trainspotting,1996,Drama,Danny Boyle,8.1
+Fargo,1996,Crime,Joel Coen,8.1
+Underground,1995,Comedy,Emir Kusturica,8.1
+La Haine,1995,Crime,Mathieu Kassovitz,8.1
+Dilwale Dulhania Le Jayenge,1995,Drama,Aditya Chopra,8.1
+Before Sunrise,1995,Drama,Richard Linklater,8.1
+Trois Couleurs: Rouge,1994,Drama,Krzysztof Kieslowski,8.1
+Chung Hing Sam Lam,1994,Comedy,Kar-Wai Wong,8.1
+Jurassic Park,1993,Action,Steven Spielberg,8.1
+In The Name Of The Father,1993,Biography,Jim Sheridan,8.1
+Ba Wang Bie Ji,1993,Drama,Kaige Chen,8.1
+Dã  Hã³Ng Denglong Gaogao Guã ,1991,Drama,Yimou Zhang,8.1
+Dead Poets Society,1989,Comedy,Peter Weir,8.1
+Stand By Me,1986,Adventure,Rob Reiner,8.1
+Platoon,1986,Drama,Oliver Stone,8.1
+"Paris, Texas",1984,Drama,Wim Wenders,8.1
+Kaze No Tani No Naushika,1984,Animation,Hayao Miyazaki,8.1
+The Thing,1982,Horror,John Carpenter,8.1
+Pink Floyd: The Wall,1982,Drama,Alan Parker,8.1
+Fitzcarraldo,1982,Adventure,Werner Herzog,8.1
+Fanny Och Alexander,1982,Drama,Ingmar Bergman,8.1
+Blade Runner,1982,Action,Ridley Scott,8.1
+The Elephant Man,1980,Biography,David Lynch,8.1
+Life Of Brian,1979,Comedy,Terry Jones,8.1
+The Deer Hunter,1978,Drama,Michael Cimino,8.1
+Rocky,1976,Drama,John G. Avildsen,8.1
+Network,1976,Drama,Sidney Lumet,8.1
+Barry Lyndon,1975,Adventure,Stanley Kubrick,8.1
+Zerkalo,1975,Biography,Andrei Tarkovsky,8.1
+Chinatown,1974,Drama,Roman Polanski,8.1
+Paper Moon,1973,Comedy,Peter Bogdanovich,8.1
+Viskningar Och Rop,1972,Drama,Ingmar Bergman,8.1
+Solaris,1972,Drama,Andrei Tarkovsky,8.1
+Le Samouraã¯,1967,Crime,Jean-Pierre Melville,8.1
+Cool Hand Luke,1967,Crime,Stuart Rosenberg,8.1
+Persona,1966,Drama,Ingmar Bergman,8.1
+Andrei Rublev,1966,Biography,Andrei Tarkovsky,8.1
+La Battaglia Di Algeri,1966,Drama,Gillo Pontecorvo,8.1
+El Ã¡Ngel Exterminador,1962,Drama,Luis BuÃ±uel,8.1
+What Ever Happened To Baby Jane?,1962,Drama,Robert Aldrich,8.1
+Sanjuro,1962,Action,Akira Kurosawa,8.1
+The Man Who Shot Liberty Valance,1962,Drama,John Ford,8.1
+Ivanovo Detstvo,1962,Drama,Andrei Tarkovsky,8.1
+Jungfrukã¤Llan,1960,Drama,Ingmar Bergman,8.1
+Inherit The Wind,1960,Biography,Stanley Kramer,8.1
+Les Quatre Cents Coups,1959,Crime,FranÃ§ois Truffaut,8.1
+Ben-Hur,1959,Adventure,William Wyler,8.1
+Kakushi-Toride No San-Akunin,1958,Adventure,Akira Kurosawa,8.1
+Le Notti Di Cabiria,1957,Drama,Federico Fellini,8.1
+Kumonosu-Jã´,1957,Drama,Akira Kurosawa,8.1
+The Bridge On The River Kwai,1957,Adventure,David Lean,8.1
+On The Waterfront,1954,Crime,Elia Kazan,8.1
+Le Salaire De La Peur,1953,Adventure,Henri-Georges Clouzot,8.1
+Ace In The Hole,1951,Drama,Billy Wilder,8.1
+White Heat,1949,Action,Raoul Walsh,8.1
+The Third Man,1949,Film-Noir,Carol Reed,8.1
+The Red Shoes,1948,Drama,Michael Powell,8.1
+The Shop Around The Corner,1940,Comedy,Ernst Lubitsch,8.1
+Rebecca,1940,Drama,Alfred Hitchcock,8.1
+Mr. Smith Goes To Washington,1939,Comedy,Frank Capra,8.1
+Gone With The Wind,1939,Drama,Victor Fleming,8.1
+La Grande Illusion,1937,Drama,Jean Renoir,8.1
+It Happened One Night,1934,Comedy,Frank Capra,8.1
+La Passion De Jeanne D'Arc,1928,Biography,Carl Theodor Dreyer,8.1
+The Circus,1928,Comedy,Charles Chaplin,8.1
+Sunrise: A Song Of Two Humans,1927,Drama,F.W. Murnau,8.1
+The General,1926,Action,Clyde Bruckman,8.1
+Das Cabinet Des Dr. Caligari,1920,Fantasy,Robert Wiene,8.1
+Badhaai Ho,2018,Comedy,Amit Ravindernath Sharma,8.0
+Togo,2019,Adventure,Ericson Core,8.0
+Airlift,2016,Drama,Raja Menon,8.0
+Bajrangi Bhaijaan,2015,Action,Kabir Khan,8.0
+Baby,2015,Action,Neeraj Pandey,8.0
+La La Land,2016,Comedy,Damien Chazelle,8.0
+Lion,2016,Biography,Garth Davis,8.0
+The Martian,2015,Adventure,Ridley Scott,8.0
+Zootopia,2016,Animation,Byron Howard,8.0
+Bã£Hubali: The Beginning,2015,Action,S.S. Rajamouli,8.0
+Kaguyahime No Monogatari,2013,Animation,Isao Takahata,8.0
+Wonder,2017,Drama,Stephen Chbosky,8.0
+Gully Boy,2019,Drama,Zoya Akhtar,8.0
+Special Chabbis,2013,Crime,Neeraj Pandey,8.0
+Short Term 12,2013,Drama,Destin Daniel Cretton,8.0
+Serbuan Maut 2: Berandal,2014,Action,Gareth Evans,8.0
+The Imitation Game,2014,Biography,Morten Tyldum,8.0
+Guardians Of The Galaxy,2014,Action,James Gunn,8.0
+Blade Runner 2049,2017,Action,Denis Villeneuve,8.0
+Her,2013,Drama,Spike Jonze,8.0
+Bohemian Rhapsody,2018,Biography,Bryan Singer,8.0
+The Revenant,2015,Action,Alejandro G. IÃ±Ã¡rritu,8.0
+The Perks Of Being A Wallflower,2012,Drama,Stephen Chbosky,8.0
+Tropa De Elite 2: O Inimigo Agora Ã© Outro,2010,Action,JosÃ© Padilha,8.0
+The King'S Speech,2010,Biography,Tom Hooper,8.0
+The Help,2011,Drama,Tate Taylor,8.0
+Deadpool,2016,Action,Tim Miller,8.0
+Darbareye Elly,2009,Drama,Asghar Farhadi,8.0
+Dev.D,2009,Drama,Anurag Kashyap,8.0
+Yip Man,2008,Action,Wilson Yip,8.0
+My Name Is Khan,2010,Drama,Karan Johar,8.0
+Nefes: Vatan Sagolsun,2009,Action,Levent Semerci,8.0
+Slumdog Millionaire,2008,Drama,Danny Boyle,8.0
+Black Swan,2010,Drama,Darren Aronofsky,8.0
+Tropa De Elite,2007,Action,JosÃ© Padilha,8.0
+The Avengers,2012,Action,Joss Whedon,8.0
+Persepolis,2007,Animation,Vincent Paronnaud,8.0
+Dallas Buyers Club,2013,Biography,Jean-Marc VallÃ©e,8.0
+The Pursuit Of Happyness,2006,Biography,Gabriele Muccino,8.0
+Blood Diamond,2006,Adventure,Edward Zwick,8.0
+The Bourne Ultimatum,2007,Action,Paul Greengrass,8.0
+Bin-Jip,2004,Crime,Ki-duk Kim,8.0
+Sin City,2005,Crime,Frank Miller,8.0
+Le Scaphandre Et Le Papillon,2007,Biography,Julian Schnabel,8.0
+G.O.R.A.,2004,Adventure,Ãmer Faruk Sorak,8.0
+Ratatouille,2007,Animation,Brad Bird,8.0
+Casino Royale,2006,Action,Martin Campbell,8.0
+Kill Bill: Vol. 2,2004,Action,Quentin Tarantino,8.0
+Vozvrashchenie,2003,Drama,Andrey Zvyagintsev,8.0
+Bom Yeoareum Gaeul Gyeoul Geurigo Bom,2003,Drama,Ki-duk Kim,8.0
+Mar Adentro,2014,Biography,Alejandro AmenÃ¡bar,8.0
+Cinderella Man,2005,Biography,Ron Howard,8.0
+Kal Ho Naa Ho,2003,Comedy,Nikkhil Advani,8.0
+Mou Gaan Dou,2002,Action,Andrew Lau,8.0
+Pirates Of The Caribbean: The Curse Of The Black Pearl,2003,Action,Gore Verbinski,8.0
+Big Fish,2003,Adventure,Tim Burton,8.0
+The Incredibles,2004,Animation,Brad Bird,8.0
+Yeopgijeogin Geunyeo,2001,Comedy,Jae-young Kwak,8.0
+Dogville,2003,Crime,Lars von Trier,8.0
+Vizontele,2001,Comedy,Yilmaz Erdogan,8.0
+Donnie Darko,2001,Drama,Richard Kelly,8.0
+Magnolia,1999,Drama,Paul Thomas Anderson,8.0
+Dancer In The Dark,2000,Crime,Lars von Trier,8.0
+The Straight Story,1999,Biography,David Lynch,8.0
+Pã¢Fekuto Burã»,1997,Animation,Satoshi Kon,8.0
+Festen,1998,Drama,Thomas Vinterberg,8.0
+Central Do Brasil,1998,Drama,Walter Salles,8.0
+The Iron Giant,1999,Animation,Brad Bird,8.0
+Knockin' On Heaven'S Door,1997,Action,Thomas Jahn,8.0
+Sling Blade,1996,Drama,Billy Bob Thornton,8.0
+Secrets & Lies,1996,Comedy,Mike Leigh,8.0
+Twelve Monkeys,1995,Mystery,Terry Gilliam,8.0
+Kã´Kaku Kidã´Tai,1995,Animation,Mamoru Oshii,8.0
+The Nightmare Before Christmas,1993,Animation,Henry Selick,8.0
+Groundhog Day,1993,Comedy,Harold Ramis,8.0
+Bound By Honor,1993,Crime,Taylor Hackford,8.0
+Scent Of A Woman,1992,Drama,Martin Brest,8.0
+Aladdin,1992,Animation,Ron Clements,8.0
+Jfk,1991,Drama,Oliver Stone,8.0
+Beauty And The Beast,1991,Animation,Gary Trousdale,8.0
+Dances With Wolves,1990,Adventure,Kevin Costner,8.0
+Do The Right Thing,1989,Comedy,Spike Lee,8.0
+Rain Man,1988,Drama,Barry Levinson,8.0
+Akira,1988,Animation,Katsuhiro Ãtomo,8.0
+The Princess Bride,1987,Adventure,Rob Reiner,8.0
+Der Himmel Ã¼Ber Berlin,1987,Drama,Wim Wenders,8.0
+Au Revoir Les Enfants,1987,Drama,Louis Malle,8.0
+Tenkã» No Shiro Rapyuta,1986,Animation,Hayao Miyazaki,8.0
+The Terminator,1984,Action,James Cameron,8.0
+Gandhi,1982,Biography,Richard Attenborough,8.0
+Kagemusha,1980,Drama,Akira Kurosawa,8.0
+Being There,1979,Comedy,Hal Ashby,8.0
+Annie Hall,1977,Comedy,Woody Allen,8.0
+Jaws,1975,Adventure,Steven Spielberg,8.0
+Dog Day Afternoon,1975,Biography,Sidney Lumet,8.0
+Young Frankenstein,1974,Comedy,Mel Brooks,8.0
+Papillon,1973,Biography,Franklin J. Schaffner,8.0
+The Exorcist,1973,Horror,William Friedkin,8.0
+Sleuth,1972,Mystery,Joseph L. Mankiewicz,8.0
+The Last Picture Show,1971,Drama,Peter Bogdanovich,8.0
+Fiddler On The Roof,1971,Drama,Norman Jewison,8.0
+Il Conformista,1970,Drama,Bernardo Bertolucci,8.0
+Butch Cassidy And The Sundance Kid,1969,Biography,George Roy Hill,8.0
+Rosemary'S Baby,1968,Drama,Roman Polanski,8.0
+Planet Of The Apes,1968,Adventure,Franklin J. Schaffner,8.0
+The Graduate,1967,Comedy,Mike Nichols,8.0
+Who'S Afraid Of Virginia Woolf?,1966,Drama,Mike Nichols,8.0
+The Sound Of Music,1965,Biography,Robert Wise,8.0
+Doctor Zhivago,1965,Drama,David Lean,8.0
+Per Un Pugno Di Dollari,1964,Action,Sergio Leone,8.0
+8Â½,1963,Drama,Federico Fellini,8.0
+Vivre Sa Vie: Film En Douze Tableaux,1962,Drama,Jean-Luc Godard,8.0
+The Hustler,1961,Drama,Robert Rossen,8.0
+La Dolce Vita,1960,Comedy,Federico Fellini,8.0
+Rio Bravo,1959,Action,Howard Hawks,8.0
+Anatomy Of A Murder,1959,Crime,Otto Preminger,8.0
+Touch Of Evil,1958,Crime,Orson Welles,8.0
+Cat On A Hot Tin Roof,1958,Drama,Richard Brooks,8.0
+Sweet Smell Of Success,1957,Drama,Alexander Mackendrick,8.0
+The Killing,1956,Crime,Stanley Kubrick,8.0
+The Night Of The Hunter,1955,Crime,Charles Laughton,8.0
+La Strada,1954,Drama,Federico Fellini,8.0
+Les Diaboliques,1955,Crime,Henri-Georges Clouzot,8.0
+Stalag 17,1953,Comedy,Billy Wilder,8.0
+Roman Holiday,1953,Comedy,William Wyler,8.0
+A Streetcar Named Desire,1951,Drama,Elia Kazan,8.0
+In A Lonely Place,1950,Drama,Nicholas Ray,8.0
+Kind Hearts And Coronets,1949,Comedy,Robert Hamer,8.0
+Rope,1948,Crime,Alfred Hitchcock,8.0
+Out Of The Past,1947,Crime,Jacques Tourneur,8.0
+Brief Encounter,1945,Drama,David Lean,8.0
+Laura,1944,Drama,Otto Preminger,8.0
+The Best Years Of Our Lives,1946,Drama,William Wyler,8.0
+Arsenic And Old Lace,1942,Comedy,Frank Capra,8.0
+The Maltese Falcon,1941,Film-Noir,John Huston,8.0
+The Grapes Of Wrath,1940,Drama,John Ford,8.0
+The Wizard Of Oz,1939,Adventure,Victor Fleming,8.0
+La Rã¨Gle Du Jeu,1939,Comedy,Jean Renoir,8.0
+The Thin Man,1934,Comedy,W.S. Van Dyke,8.0
+All Quiet On The Western Front,1930,Drama,Lewis Milestone,8.0
+Bronenosets Potemkin,1925,Drama,Sergei M. Eisenstein,8.0
+Knives Out,2019,Comedy,Rian Johnson,7.9
+Dil Bechara,2020,Comedy,Mukesh Chhabra,7.9
+Manbiki Kazoku,2018,Crime,Hirokazu Koreeda,7.9
+Marriage Story,2019,Comedy,Noah Baumbach,7.9
+Call Me By Your Name,2017,Drama,Luca Guadagnino,7.9
+"I, Daniel Blake",2016,Drama,Ken Loach,7.9
+Isle Of Dogs,2018,Animation,Wes Anderson,7.9
+Hunt For The Wilderpeople,2016,Adventure,Taika Waititi,7.9
+Captain Fantastic,2016,Comedy,Matt Ross,7.9
+Sing Street,2016,Comedy,John Carney,7.9
+Thor: Ragnarok,2017,Action,Taika Waititi,7.9
+Nightcrawler,2014,Crime,Dan Gilroy,7.9
+Jojo Rabbit,2019,Comedy,Taika Waititi,7.9
+Arrival,2016,Drama,Denis Villeneuve,7.9
+Star Wars: Episode Vii - The Force Awakens,2015,Action,J.J. Abrams,7.9
+Before Midnight,2013,Drama,Richard Linklater,7.9
+X-Men: Days Of Future Past,2014,Action,Bryan Singer,7.9
+Bir Zamanlar Anadolu'Da,2011,Crime,Nuri Bilge Ceylan,7.9
+The Artist,2011,Comedy,Michel Hazanavicius,7.9
+Edge Of Tomorrow,2014,Action,Doug Liman,7.9
+Amour,2012,Drama,Michael Haneke,7.9
+The Irishman,2019,Biography,Martin Scorsese,7.9
+Un Prophã¨Te,2009,Crime,Jacques Audiard,7.9
+Moon,2009,Drama,Duncan Jones,7.9
+Lã¥T Den Rã¤Tte Komma In,2008,Crime,Tomas Alfredson,7.9
+District 9,2009,Action,Neill Blomkamp,7.9
+The Wrestler,2008,Drama,Darren Aronofsky,7.9
+Jab We Met,2007,Comedy,Imtiaz Ali,7.9
+Boyhood,2014,Drama,Richard Linklater,7.9
+"4 Luni, 3 Saptamã¢Ni Si 2 Zile",2007,Drama,Cristian Mungiu,7.9
+Star Trek,2009,Action,J.J. Abrams,7.9
+In Bruges,2008,Comedy,Martin McDonagh,7.9
+The Man From Earth,2007,Drama,Richard Schenkman,7.9
+Letters From Iwo Jima,2006,Action,Clint Eastwood,7.9
+The Fall,2006,Adventure,Tarsem Singh,7.9
+Life Of Pi,2012,Adventure,Ang Lee,7.9
+Fantastic Mr. Fox,2009,Animation,Wes Anderson,7.9
+C.R.A.Z.Y.,2005,Comedy,Jean-Marc VallÃ©e,7.9
+Les Choristes,2004,Drama,Christophe Barratier,7.9
+Iron Man,2008,Action,Jon Favreau,7.9
+Shaun Of The Dead,2004,Comedy,Edgar Wright,7.9
+Gegen Die Wand,2004,Drama,Fatih Akin,7.9
+Mystic River,2003,Crime,Clint Eastwood,7.9
+Harry Potter And The Prisoner Of Azkaban,2004,Adventure,Alfonso CuarÃ³n,7.9
+Ying Xiong,2002,Action,Yimou Zhang,7.9
+Hable Con Ella,2002,Drama,Pedro AlmodÃ³var,7.9
+No Man'S Land,2001,Comedy,Danis Tanovic,7.9
+Cowboy Bebop: Tengoku No Tobira,2001,Animation,Shin'ichirÃ´ Watanabe,7.9
+The Bourne Identity,2002,Action,Doug Liman,7.9
+Nueve Reinas,2000,Crime,FabiÃ¡n Bielinsky,7.9
+Children Of Men,2006,Adventure,Alfonso CuarÃ³n,7.9
+Almost Famous,2000,Adventure,Cameron Crowe,7.9
+Mulholland Dr.,2001,Drama,David Lynch,7.9
+Toy Story 2,1999,Animation,John Lasseter,7.9
+Boogie Nights,1997,Drama,Paul Thomas Anderson,7.9
+Mimi Wo Sumaseba,1995,Animation,Yoshifumi KondÃ´,7.9
+Once Were Warriors,1994,Crime,Lee Tamahori,7.9
+True Romance,1993,Crime,Tony Scott,7.9
+Trois Couleurs: Bleu,1993,Drama,Krzysztof Kieslowski,7.9
+Jã»Bãª Ninpã»Chã´,1993,Animation,Yoshiaki Kawajiri,7.9
+Carlito'S Way,1993,Crime,Brian De Palma,7.9
+Edward Scissorhands,1990,Drama,Tim Burton,7.9
+My Left Foot: The Story Of Christy Brown,1989,Biography,Jim Sheridan,7.9
+Crimes And Misdemeanors,1989,Comedy,Woody Allen,7.9
+The Untouchables,1987,Crime,Brian De Palma,7.9
+Hannah And Her Sisters,1986,Comedy,Woody Allen,7.9
+Brazil,1985,Drama,Terry Gilliam,7.9
+This Is Spinal Tap,1984,Comedy,Rob Reiner,7.9
+A Christmas Story,1983,Comedy,Bob Clark,7.9
+The Blues Brothers,1980,Action,John Landis,7.9
+Manhattan,1979,Comedy,Woody Allen,7.9
+All That Jazz,1979,Drama,Bob Fosse,7.9
+Dawn Of The Dead,1978,Action,George A. Romero,7.9
+All The President'S Men,1976,Biography,Alan J. Pakula,7.9
+La Montaã±A Sagrada,1973,Adventure,Alejandro Jodorowsky,7.9
+Amarcord,1973,Comedy,Federico Fellini,7.9
+Le Charme Discret De La Bourgeoisie,1972,Comedy,Luis BuÃ±uel,7.9
+"Aguirre, Der Zorn Gottes",1972,Action,Werner Herzog,7.9
+Harold And Maude,1971,Comedy,Hal Ashby,7.9
+Patton,1970,Biography,Franklin J. Schaffner,7.9
+The Wild Bunch,1969,Action,Sam Peckinpah,7.9
+Night Of The Living Dead,1968,Horror,George A. Romero,7.9
+The Lion In Winter,1968,Biography,Anthony Harvey,7.9
+In The Heat Of The Night,1967,Crime,Norman Jewison,7.9
+Charade,1963,Comedy,Stanley Donen,7.9
+The Manchurian Candidate,1962,Drama,John Frankenheimer,7.9
+Spartacus,1960,Adventure,Stanley Kubrick,7.9
+L'Avventura,1960,Drama,Michelangelo Antonioni,7.9
+Hiroshima Mon Amour,1959,Drama,Alain Resnais,7.9
+The Ten Commandments,1956,Adventure,Cecil B. DeMille,7.9
+The Searchers,1956,Adventure,John Ford,7.9
+East Of Eden,1955,Drama,Elia Kazan,7.9
+High Noon,1952,Drama,Fred Zinnemann,7.9
+Strangers On A Train,1951,Crime,Alfred Hitchcock,7.9
+Harvey,1950,Comedy,Henry Koster,7.9
+Miracle On 34Th Street,1947,Comedy,George Seaton,7.9
+Notorious,1946,Drama,Alfred Hitchcock,7.9
+The Big Sleep,1946,Crime,Howard Hawks,7.9
+The Lost Weekend,1945,Drama,Billy Wilder,7.9
+The Philadelphia Story,1940,Comedy,George Cukor,7.9
+His Girl Friday,1940,Comedy,Howard Hawks,7.9
+The Adventures Of Robin Hood,1938,Action,Michael Curtiz,7.9
+A Night At The Opera,1935,Comedy,Sam Wood,7.9
+King Kong,1933,Adventure,Merian C. Cooper,7.9
+Freaks,1932,Drama,Tod Browning,7.9
+Nosferatu,1922,Fantasy,F.W. Murnau,7.9
+The Gentlemen,2019,Action,Guy Ritchie,7.8
+Raazi,2018,Action,Meghna Gulzar,7.8
+Sound Of Metal,2019,Drama,Darius Marder,7.8
+Forushande,2016,Drama,Asghar Farhadi,7.8
+Dunkirk,2017,Action,Christopher Nolan,7.8
+Perfetti Sconosciuti,2016,Comedy,Paolo Genovese,7.8
+Hidden Figures,2016,Biography,Theodore Melfi,7.8
+Paddington 2,2017,Adventure,Paul King,7.8
+Udta Punjab,2016,Action,Abhishek Chaubey,7.8
+Kubo And The Two Strings,2016,Animation,Travis Knight,7.8
+M.S. Dhoni: The Untold Story,2016,Biography,Neeraj Pandey,7.8
+Manchester By The Sea,2016,Drama,Kenneth Lonergan,7.8
+Under Sandet,2015,Drama,Martin Zandvliet,7.8
+Rogue One,2016,Action,Gareth Edwards,7.8
+Captain America: Civil War,2016,Action,Anthony Russo,7.8
+The Hateful Eight,2015,Crime,Quentin Tarantino,7.8
+Little Women,2019,Drama,Greta Gerwig,7.8
+Loving Vincent,2017,Animation,Dorota Kobiela,7.8
+Pride,2014,Biography,Matthew Warchus,7.8
+Le Passã©,2013,Drama,Asghar Farhadi,7.8
+La Grande Bellezza,2013,Drama,Paolo Sorrentino,7.8
+The Lunchbox,2013,Drama,Ritesh Batra,7.8
+Vicky Donor,2012,Comedy,Shoojit Sircar,7.8
+Big Hero 6,2014,Animation,Don Hall,7.8
+About Time,2013,Comedy,Richard Curtis,7.8
+English Vinglish,2012,Comedy,Gauri Shinde,7.8
+Kaze Tachinu,2013,Animation,Hayao Miyazaki,7.8
+Toy Story 4,2019,Animation,Josh Cooley,7.8
+La Migliore Offerta,2013,Crime,Giuseppe Tornatore,7.8
+Moonrise Kingdom,2012,Comedy,Wes Anderson,7.8
+How To Train Your Dragon 2,2014,Animation,Dean DeBlois,7.8
+The Big Short,2015,Biography,Adam McKay,7.8
+Kokuhaku,2010,Drama,Tetsuya Nakashima,7.8
+Ang-Ma-Reul Bo-At-Da,2010,Action,Jee-woon Kim,7.8
+The Girl With The Dragon Tattoo,2011,Crime,David Fincher,7.8
+Captain Phillips,2013,Adventure,Paul Greengrass,7.8
+Ajeossi,2010,Action,Jeong-beom Lee,7.8
+Straight Outta Compton,2015,Biography,F. Gary Gray,7.8
+Madeo,2009,Crime,Bong Joon Ho,7.8
+Chugyeokja,2008,Action,Hong-jin Na,7.8
+The Hobbit: The Desolation Of Smaug,2013,Adventure,Peter Jackson,7.8
+Das WeiãE Band - Eine Deutsche Kindergeschichte,2009,Drama,Michael Haneke,7.8
+Mã¤N Som Hatar Kvinnor,2009,Crime,Niels Arden Oplev,7.8
+The Trial Of The Chicago 7,2020,Drama,Aaron Sorkin,7.8
+Druk,2020,Comedy,Thomas Vinterberg,7.8
+The Fighter,2010,Biography,David O. Russell,7.8
+Taken,2008,Action,Pierre Morel,7.8
+The Boy In The Striped Pyjamas,2008,Drama,Mark Herman,7.8
+Once,2007,Drama,John Carney,7.8
+The Hobbit: An Unexpected Journey,2012,Adventure,Peter Jackson,7.8
+Auf Der Anderen Seite,2007,Drama,Fatih Akin,7.8
+Atonement,2007,Drama,Joe Wright,7.8
+Drive,2011,Crime,Nicolas Winding Refn,7.8
+American Gangster,2007,Biography,Ridley Scott,7.8
+Avatar,2009,Action,James Cameron,7.8
+Mr. Nobody,2009,Drama,Jaco Van Dormael,7.8
+Apocalypto,2006,Action,Mel Gibson,7.8
+Little Miss Sunshine,2006,Comedy,Jonathan Dayton,7.8
+Hot Fuzz,2007,Action,Edgar Wright,7.8
+The Curious Case Of Benjamin Button,2008,Drama,David Fincher,7.8
+Veer-Zaara,2004,Drama,Yash Chopra,7.8
+Adams Ã¦Bler,2005,Comedy,Anders Thomas Jensen,7.8
+Pride & Prejudice,2005,Drama,Joe Wright,7.8
+The World'S Fastest Indian,2005,Biography,Roger Donaldson,7.8
+Tã´Kyã´ Goddofã¢Zã¢Zu,2003,Animation,Satoshi Kon,7.8
+Serenity,2005,Action,Joss Whedon,7.8
+Walk The Line,2005,Biography,James Mangold,7.8
+Ondskan,2003,Drama,Mikael HÃ¥fstrÃ¶m,7.8
+The Notebook,2004,Drama,Nick Cassavetes,7.8
+Diarios De Motocicleta,2004,Adventure,Walter Salles,7.8
+Lilja 4-Ever,2002,Crime,Lukas Moodysson,7.8
+Les Triplettes De Belleville,2003,Animation,Sylvain Chomet,7.8
+Gongdong Gyeongbi Guyeok Jsa,2000,Action,Chan-wook Park,7.8
+The Count Of Monte Cristo,2002,Action,Kevin Reynolds,7.8
+Waking Life,2001,Animation,Richard Linklater,7.8
+Remember The Titans,2000,Biography,Boaz Yakin,7.8
+Wo Hu Cang Long,2000,Action,Ang Lee,7.8
+Todo Sobre Mi Madre,1999,Drama,Pedro AlmodÃ³var,7.8
+Cast Away,2000,Adventure,Robert Zemeckis,7.8
+The Boondock Saints,1999,Action,Troy Duffy,7.8
+The Insider,1999,Biography,Michael Mann,7.8
+October Sky,1999,Biography,Joe Johnston,7.8
+Shrek,2001,Animation,Andrew Adamson,7.8
+Titanic,1997,Drama,James Cameron,7.8
+Hana-Bi,1997,Crime,Takeshi Kitano,7.8
+Gattaca,1997,Drama,Andrew Niccol,7.8
+The Game,1997,Action,David Fincher,7.8
+Breaking The Waves,1996,Drama,Lars von Trier,7.8
+Ed Wood,1994,Biography,Tim Burton,7.8
+What'S Eating Gilbert Grape,1993,Drama,Lasse HallstrÃ¶m,7.8
+Tombstone,1993,Action,George P. Cosmatos,7.8
+The Sandlot,1993,Comedy,David Mickey Evans,7.8
+The Remains Of The Day,1993,Drama,James Ivory,7.8
+Naked,1993,Comedy,Mike Leigh,7.8
+The Fugitive,1993,Action,Andrew Davis,7.8
+A Bronx Tale,1993,Crime,Robert De Niro,7.8
+Batman: Mask Of The Phantasm,1993,Animation,Kevin Altieri,7.8
+Lat Sau San Taam,1992,Action,John Woo,7.8
+Night On Earth,1991,Comedy,Jim Jarmusch,7.8
+La Double Vie De Vã©Ronique,1991,Drama,Krzysztof Kieslowski,7.8
+Boyz N The Hood,1991,Crime,John Singleton,7.8
+Misery,1990,Drama,Rob Reiner,7.8
+Awakenings,1990,Biography,Penny Marshall,7.8
+Majo No Takkyã»Bin,1989,Animation,Hayao Miyazaki,7.8
+Glory,1989,Biography,Edward Zwick,7.8
+Dip Huet Seung Hung,1989,Action,John Woo,7.8
+Back To The Future Part Ii,1989,Adventure,Robert Zemeckis,7.8
+Mississippi Burning,1988,Crime,Alan Parker,7.8
+Predator,1987,Action,John McTiernan,7.8
+Evil Dead Ii,1987,Action,Sam Raimi,7.8
+Ferris Bueller'S Day Off,1986,Comedy,John Hughes,7.8
+Down By Law,1986,Comedy,Jim Jarmusch,7.8
+The Goonies,1985,Adventure,Richard Donner,7.8
+The Color Purple,1985,Drama,Steven Spielberg,7.8
+The Breakfast Club,1985,Comedy,John Hughes,7.8
+The Killing Fields,1984,Biography,Roland JoffÃ©,7.8
+Ghostbusters,1984,Action,Ivan Reitman,7.8
+The Right Stuff,1983,Adventure,Philip Kaufman,7.8
+The King Of Comedy,1982,Comedy,Martin Scorsese,7.8
+E.T. The Extra-Terrestrial,1982,Family,Steven Spielberg,7.8
+Kramer Vs. Kramer,1979,Drama,Robert Benton,7.8
+Days Of Heaven,1978,Drama,Terrence Malick,7.8
+The Outlaw Josey Wales,1976,Western,Clint Eastwood,7.8
+The Man Who Would Be King,1975,Adventure,John Huston,7.8
+The Conversation,1974,Drama,Francis Ford Coppola,7.8
+La Planã¨Te Sauvage,1973,Animation,RenÃ© Laloux,7.8
+The Day Of The Jackal,1973,Crime,Fred Zinnemann,7.8
+Badlands,1973,Action,Terrence Malick,7.8
+Cabaret,1972,Drama,Bob Fosse,7.8
+Willy Wonka & The Chocolate Factory,1971,Family,Mel Stuart,7.8
+Midnight Cowboy,1969,Drama,John Schlesinger,7.8
+Wait Until Dark,1967,Thriller,Terence Young,7.8
+Guess Who'S Coming To Dinner,1967,Comedy,Stanley Kramer,7.8
+Bonnie And Clyde,1967,Action,Arthur Penn,7.8
+My Fair Lady,1964,Drama,George Cukor,7.8
+Mary Poppins,1964,Comedy,Robert Stevenson,7.8
+The Longest Day,1962,Action,Ken Annakin,7.8
+Jules Et Jim,1962,Drama,FranÃ§ois Truffaut,7.8
+The Innocents,1961,Horror,Jack Clayton,7.8
+Ã Bout De Souffle,1960,Crime,Jean-Luc Godard,7.8
+Red River,1948,Action,Howard Hawks,7.8
+Key Largo,1948,Action,John Huston,7.8
+To Have And Have Not,1944,Adventure,Howard Hawks,7.8
+Shadow Of A Doubt,1943,Film-Noir,Alfred Hitchcock,7.8
+Stagecoach,1939,Adventure,John Ford,7.8
+The Lady Vanishes,1938,Mystery,Alfred Hitchcock,7.8
+Bringing Up Baby,1938,Comedy,Howard Hawks,7.8
+Bride Of Frankenstein,1935,Drama,James Whale,7.8
+Duck Soup,1933,Comedy,Leo McCarey,7.8
+Scarface: The Shame Of The Nation,1932,Action,Howard Hawks,7.8
+Frankenstein,1931,Drama,James Whale,7.8
+Roma,2018,Drama,Alfonso CuarÃ³n,7.7
+God'S Own Country,2017,Drama,Francis Lee,7.7
+Deadpool 2,2018,Action,David Leitch,7.7
+Wind River,2017,Crime,Taylor Sheridan,7.7
+Get Out,2017,Horror,Jordan Peele,7.7
+Mission: Impossible - Fallout,2018,Action,Christopher McQuarrie,7.7
+En Man Som Heter Ove,2015,Comedy,Hannes Holm,7.7
+What We Do In The Shadows,2014,Comedy,Jemaine Clement,7.7
+Omoide No Mã¢Nã®,2014,Animation,James Simone,7.7
+The Theory Of Everything,2014,Biography,James Marsh,7.7
+Kingsman: The Secret Service,2014,Action,Matthew Vaughn,7.7
+The Fault In Our Stars,2014,Drama,Josh Boone,7.7
+Me And Earl And The Dying Girl,2015,Comedy,Alfonso Gomez-Rejon,7.7
+Birdman Or (The Unexpected Virtue Of Ignorance),2014,Comedy,Alejandro G. IÃ±Ã¡rritu,7.7
+La Vie D'Adã¨Le,2013,Drama,Abdellatif Kechiche,7.7
+Kai Po Che!,2013,Drama,Abhishek Kapoor,7.7
+The Broken Circle Breakdown,2012,Drama,Felix van Groeningen,7.7
+Captain America: The Winter Soldier,2014,Action,Anthony Russo,7.7
+Rockstar,2011,Drama,Imtiaz Ali,7.7
+Nebraska,2013,Adventure,Alexander Payne,7.7
+Wreck-It Ralph,2012,Animation,Rich Moore,7.7
+Le Petit Prince,2015,Animation,Mark Osborne,7.7
+Detachment,2011,Drama,Tony Kaye,7.7
+Midnight In Paris,2011,Comedy,Woody Allen,7.7
+The Lego Movie,2014,Animation,Christopher Miller,7.7
+Gravity,2013,Drama,Alfonso CuarÃ³n,7.7
+Star Trek Into Darkness,2013,Action,J.J. Abrams,7.7
+Beasts Of No Nation,2015,Drama,Cary Joji Fukunaga,7.7
+The Social Network,2010,Biography,David Fincher,7.7
+X: First Class,2011,Action,Matthew Vaughn,7.7
+The Hangover,2009,Comedy,Todd Phillips,7.7
+Skyfall,2012,Action,Sam Mendes,7.7
+Silver Linings Playbook,2012,Comedy,David O. Russell,7.7
+Argo,2012,Biography,Ben Affleck,7.7
+(500) Days Of Summer,2009,Comedy,Marc Webb,7.7
+Harry Potter And The Deathly Hallows: Part 1,2010,Adventure,David Yates,7.7
+Gake No Ue No Ponyo,2008,Animation,Hayao Miyazaki,7.7
+Frost/Nixon,2008,Biography,Ron Howard,7.7
+Papurika,2006,Animation,Satoshi Kon,7.7
+Changeling,2008,Biography,Clint Eastwood,7.7
+Flipped,2010,Comedy,Rob Reiner,7.7
+Toki O Kakeru Shã´Jo,2006,Animation,Mamoru Hosoda,7.7
+Death Note: Desu Nã´To,2006,Crime,ShÃ»suke Kaneko,7.7
+This Is England,2006,Crime,Shane Meadows,7.7
+Ex Machina,2014,Drama,Alex Garland,7.7
+Efter Brylluppet,2006,Drama,Susanne Bier,7.7
+The Last King Of Scotland,2006,Biography,Kevin Macdonald,7.7
+Zodiac,2007,Crime,David Fincher,7.7
+Lucky Number Slevin,2006,Action,Paul McGuigan,7.7
+Joyeux Noã«L,2005,Drama,Christian Carion,7.7
+Control,2007,Biography,Anton Corbijn,7.7
+Tangled,2010,Animation,Nathan Greno,7.7
+Zwartboek,2006,Drama,Paul Verhoeven,7.7
+Brokeback Mountain,2005,Drama,Ang Lee,7.7
+3:10 To Yuma,2007,Action,James Mangold,7.7
+Crash,2004,Crime,Paul Haggis,7.7
+Kung Fu,2004,Action,Stephen Chow,7.7
+The Bourne Supremacy,2004,Action,Paul Greengrass,7.7
+The Machinist,2004,Drama,Brad Anderson,7.7
+Ray,2004,Biography,Taylor Hackford,7.7
+Lost In Translation,2003,Comedy,Sofia Coppola,7.7
+Harry Potter And The Goblet Of Fire,2005,Adventure,Mike Newell,7.7
+Man On Fire,2004,Action,Tony Scott,7.7
+Coraline,2009,Animation,Henry Selick,7.7
+The Last Samurai,2003,Action,Edward Zwick,7.7
+The Magdalene Sisters,2002,Drama,Peter Mullan,7.7
+Good Bye Lenin!,2003,Comedy,Wolfgang Becker,7.7
+In America,2002,Drama,Jim Sheridan,7.7
+I Am Sam,2001,Drama,Jessie Nelson,7.7
+Adaptation.,2002,Comedy,Spike Jonze,7.7
+Black Hawk Down,2001,Drama,Ridley Scott,7.7
+Road To Perdition,2002,Crime,Sam Mendes,7.7
+Das Experiment,2001,Drama,Oliver Hirschbiegel,7.7
+Billy Elliot,2000,Drama,Stephen Daldry,7.7
+Hedwig And The Angry Inch,2001,Comedy,John Cameron Mitchell,7.7
+Ocean'S Eleven,2001,Crime,Steven Soderbergh,7.7
+Vampire Hunter D: Bloodlust,2000,Animation,Yoshiaki Kawajiri,7.7
+"O Brother, Where Art Thou?",2000,Adventure,Joel Coen,7.7
+Interstate 60: Episodes Of The Road,2002,Adventure,Bob Gale,7.7
+"South Park: Bigger, Longer & Uncut",1999,Animation,Trey Parker,7.7
+Office Space,1999,Comedy,Mike Judge,7.7
+Happiness,1998,Comedy,Todd Solondz,7.7
+Training Day,2001,Crime,Antoine Fuqua,7.7
+Rushmore,1998,Comedy,Wes Anderson,7.7
+Abre Los Ojos,1997,Drama,Alejandro AmenÃ¡bar,7.7
+Being John Malkovich,1999,Comedy,Spike Jonze,7.7
+As Good As It Gets,1997,Comedy,James L. Brooks,7.7
+The Fifth Element,1997,Action,Luc Besson,7.7
+Le Dã®Ner De Cons,1998,Comedy,Francis Veber,7.7
+Donnie Brasco,1997,Biography,Mike Newell,7.7
+Shine,1996,Biography,Scott Hicks,7.7
+Primal Fear,1996,Crime,Gregory Hoblit,7.7
+Hamlet,1996,Drama,Kenneth Branagh,7.7
+A Little Princess,1995,Drama,Alfonso CuarÃ³n,7.7
+Do Lok Tin Si,1995,Comedy,Kar-Wai Wong,7.7
+Il Postino,1994,Biography,Michael Radford,7.7
+Clerks,1994,Comedy,Kevin Smith,7.7
+Short Cuts,1993,Comedy,Robert Altman,7.7
+Philadelphia,1993,Drama,Jonathan Demme,7.7
+The Muppet Christmas Carol,1992,Comedy,Brian Henson,7.7
+Malcolm X,1992,Biography,Spike Lee,7.7
+The Last Of The Mohicans,1992,Action,Michael Mann,7.7
+Kurenai No Buta,1992,Animation,Hayao Miyazaki,7.7
+Glengarry Glen Ross,1992,Crime,James Foley,7.7
+A Few Good Men,1992,Drama,Rob Reiner,7.7
+Fried Green Tomatoes,1991,Drama,Jon Avnet,7.7
+Barton Fink,1991,Comedy,Joel Coen,7.7
+Miller'S Crossing,1990,Crime,Joel Coen,7.7
+Who Framed Roger Rabbit,1988,Animation,Robert Zemeckis,7.7
+Spoorloos,1988,Mystery,George Sluizer,7.7
+Withnail & I,1987,Comedy,Bruce Robinson,7.7
+The Last Emperor,1987,Biography,Bernardo Bertolucci,7.7
+Empire Of The Sun,1987,Action,Steven Spielberg,7.7
+Der Name Der Rose,1986,Crime,Jean-Jacques Annaud,7.7
+Blue Velvet,1986,Drama,David Lynch,7.7
+The Purple Rose Of Cairo,1985,Comedy,Woody Allen,7.7
+After Hours,1985,Comedy,Martin Scorsese,7.7
+Zelig,1983,Comedy,Woody Allen,7.7
+The Verdict,1982,Drama,Sidney Lumet,7.7
+Star Trek Ii: The Wrath Of Khan,1982,Action,Nicholas Meyer,7.7
+First Blood,1982,Action,Ted Kotcheff,7.7
+Ordinary People,1980,Drama,Robert Redford,7.7
+Airplane!,1980,Comedy,Jim Abrahams,7.7
+Rupan Sansei: Kariosutoro No Shiro,1979,Animation,Hayao Miyazaki,7.7
+Halloween,1978,Horror,John Carpenter,7.7
+Le Locataire,1976,Drama,Roman Polanski,7.7
+Love And Death,1975,Comedy,Woody Allen,7.7
+The Taking Of Pelham One Two Three,1974,Action,Joseph Sargent,7.7
+Blazing Saddles,1974,Comedy,Mel Brooks,7.7
+Serpico,1973,Biography,Sidney Lumet,7.7
+Enter The Dragon,1973,Action,Robert Clouse,7.7
+Deliverance,1972,Adventure,John Boorman,7.7
+The French Connection,1971,Action,William Friedkin,7.7
+Dirty Harry,1971,Action,Don Siegel,7.7
+Where Eagles Dare,1968,Action,Brian G. Hutton,7.7
+The Odd Couple,1968,Comedy,Gene Saks,7.7
+The Dirty Dozen,1967,Action,Robert Aldrich,7.7
+Belle De Jour,1967,Drama,Luis BuÃ±uel,7.7
+A Man For All Seasons,1966,Biography,Fred Zinnemann,7.7
+Repulsion,1965,Drama,Roman Polanski,7.7
+Zulu,1964,Drama,Cy Endfield,7.7
+Goldfinger,1964,Action,Guy Hamilton,7.7
+The Birds,1963,Drama,Alfred Hitchcock,7.7
+Cape Fear,1962,Drama,J. Lee Thompson,7.7
+Peeping Tom,1960,Drama,Michael Powell,7.7
+The Magnificent Seven,1960,Action,John Sturges,7.7
+Les Yeux Sans Visage,1960,Drama,Georges Franju,7.7
+Invasion Of The Body Snatchers,1956,Drama,Don Siegel,7.7
+Rebel Without A Cause,1955,Drama,Nicholas Ray,7.7
+The Ladykillers,1955,Comedy,Alexander Mackendrick,7.7
+Sabrina,1954,Comedy,Billy Wilder,7.7
+The Quiet Man,1952,Comedy,John Ford,7.7
+The Day The Earth Stood Still,1951,Drama,Robert Wise,7.7
+The African Queen,1951,Adventure,John Huston,7.7
+Gilda,1946,Drama,Charles Vidor,7.7
+Fantasia,1940,Animation,James Algar,7.7
+The Invisible Man,1933,Horror,James Whale,7.7
+Dark Waters,2019,Biography,Todd Haynes,7.6
+Searching,2018,Drama,Aneesh Chaganty,7.6
+Once Upon A Time... In Hollywood,2019,Comedy,Quentin Tarantino,7.6
+Nelyubov,2017,Drama,Andrey Zvyagintsev,7.6
+The Florida Project,2017,Drama,Sean Baker,7.6
+Just Mercy,2019,Biography,Destin Daniel Cretton,7.6
+Gifted,2017,Drama,Marc Webb,7.6
+The Peanut Butter Falcon,2019,Adventure,Tyler Nilson,7.6
+Victoria,2015,Crime,Sebastian Schipper,7.6
+Mustang,2015,Drama,Deniz Gamze ErgÃ¼ven,7.6
+Guardians Of The Galaxy Vol. 2,2017,Action,James Gunn,7.6
+Baby Driver,2017,Action,Edgar Wright,7.6
+Only The Brave,2017,Action,Joseph Kosinski,7.6
+Bridge Of Spies,2015,Drama,Steven Spielberg,7.6
+Incredibles 2,2018,Animation,Brad Bird,7.6
+Moana,2016,Animation,Ron Clements,7.6
+Sicario,2015,Action,Denis Villeneuve,7.6
+Creed,2015,Drama,Ryan Coogler,7.6
+Leviafan,2014,Crime,Andrey Zvyagintsev,7.6
+Hell Or High Water,2016,Action,David Mackenzie,7.6
+Philomena,2013,Biography,Stephen Frears,7.6
+Dawn Of The Planet Of The Apes,2014,Action,Matt Reeves,7.6
+El Cuerpo,2012,Mystery,Oriol Paulo,7.6
+Serbuan Maut,2011,Action,Gareth Evans,7.6
+End Of Watch,2012,Action,David Ayer,7.6
+Kari-Gurashi No Arietti,2010,Animation,Hiromasa Yonebayashi,7.6
+A Star Is Born,2018,Drama,Bradley Cooper,7.6
+True Grit,2010,Drama,Ethan Coen,7.6
+Hã¦Vnen,2010,Drama,Susanne Bier,7.6
+Despicable Me,2010,Animation,Pierre Coffin,7.6
+50/50,2011,Comedy,Jonathan Levine,7.6
+Kick-Ass,2010,Action,Matthew Vaughn,7.6
+Celda 211,2009,Action,Daniel MonzÃ³n,7.6
+Moneyball,2011,Biography,Bennett Miller,7.6
+La Piel Que Habito,2011,Drama,Pedro AlmodÃ³var,7.6
+Zombieland,2009,Adventure,Ruben Fleischer,7.6
+Die Welle,2008,Drama,Dennis Gansel,7.6
+Sherlock Holmes,2009,Action,Guy Ritchie,7.6
+The Blind Side,2009,Biography,John Lee Hancock,7.6
+The Visitor,2007,Drama,Tom McCarthy,7.6
+Seven Pounds,2008,Drama,Gabriele Muccino,7.6
+Eastern Promises,2007,Action,David Cronenberg,7.6
+Stardust,2007,Adventure,Matthew Vaughn,7.6
+The Secret Of Kells,2009,Animation,Tomm Moore,7.6
+Inside Man,2006,Crime,Spike Lee,7.6
+Gone Baby Gone,2007,Crime,Ben Affleck,7.6
+La Vie En Rose,2007,Biography,Olivier Dahan,7.6
+Huo Yuan Jia,2006,Action,Ronny Yu,7.6
+The Illusionist,2006,Drama,Neil Burger,7.6
+Dead Man'S Shoes,2004,Crime,Shane Meadows,7.6
+Harry Potter And The Half-Blood Prince,2009,Action,David Yates,7.6
+300,2006,Action,Zack Snyder,7.6
+Match Point,2005,Drama,Woody Allen,7.6
+Watchmen,2009,Action,Zack Snyder,7.6
+Lord Of War,2005,Action,Andrew Niccol,7.6
+Saw,2004,Horror,James Wan,7.6
+"Synecdoche, New York",2008,Drama,Charlie Kaufman,7.6
+Mysterious Skin,2004,Drama,Gregg Araki,7.6
+Jeux D'Enfants,2003,Comedy,Yann Samuell,7.6
+Un Long Dimanche De Fianã§Ailles,2004,Drama,Jean-Pierre Jeunet,7.6
+The Station Agent,2003,Comedy,Tom McCarthy,7.6
+21 Grams,2003,Crime,Alejandro G. IÃ±Ã¡rritu,7.6
+Boksuneun Naui Geot,2002,Crime,Chan-wook Park,7.6
+Finding Neverland,2004,Biography,Marc Forster,7.6
+25Th Hour,2002,Drama,Spike Lee,7.6
+The Butterfly Effect,2004,Drama,Eric Bress,7.6
+28 Days Later...,2002,Drama,Danny Boyle,7.6
+Batoru Rowaiaru,2000,Action,Kinji Fukasaku,7.6
+The Royal Tenenbaums,2001,Comedy,Wes Anderson,7.6
+Y Tu Mamã¡ Tambiã©N,2001,Drama,Alfonso CuarÃ³n,7.6
+Harry Potter And The Sorcerer'S Stone,2001,Adventure,Chris Columbus,7.6
+The Others,2001,Horror,Alejandro AmenÃ¡bar,7.6
+Blow,2001,Biography,Ted Demme,7.6
+Enemy At The Gates,2001,Drama,Jean-Jacques Annaud,7.6
+Minority Report,2002,Action,Steven Spielberg,7.6
+The Hurricane,1999,Biography,Norman Jewison,7.6
+American Psycho,2000,Comedy,Mary Harron,7.6
+Lola Rennt,1998,Crime,Tom Tykwer,7.6
+The Thin Red Line,1998,Drama,Terrence Malick,7.6
+Mulan,1998,Animation,Tony Bancroft,7.6
+Fear And Loathing In Las Vegas,1998,Adventure,Terry Gilliam,7.6
+Funny Games,1997,Crime,Michael Haneke,7.6
+Dark City,1998,Mystery,Alex Proyas,7.6
+Sleepers,1996,Crime,Barry Levinson,7.6
+Lost Highway,1997,Mystery,David Lynch,7.6
+Sense And Sensibility,1995,Drama,Ang Lee,7.6
+Die Hard: With A Vengeance,1995,Action,John McTiernan,7.6
+Dead Man,1995,Adventure,Jim Jarmusch,7.6
+The Bridges Of Madison County,1995,Drama,Clint Eastwood,7.6
+Apollo 13,PG,Adventure,Ron Howard,7.6
+Trois Couleurs: Blanc,1994,Comedy,Krzysztof Kieslowski,7.6
+Falling Down,1993,Action,Joel Schumacher,7.6
+Dazed And Confused,1993,Comedy,Richard Linklater,7.6
+My Cousin Vinny,1992,Comedy,Jonathan Lynn,7.6
+Omohide Poro Poro,1991,Animation,Isao Takahata,7.6
+Delicatessen,1991,Comedy,Marc Caro,7.6
+Home Alone,1990,Comedy,Chris Columbus,7.6
+The Godfather: Part Iii,1990,Crime,Francis Ford Coppola,7.6
+When Harry Met Sally...,1989,Comedy,Rob Reiner,7.6
+The Little Mermaid,1989,Animation,Ron Clements,7.6
+The Naked Gun: From The Files Of Police Squad!,1988,Comedy,David Zucker,7.6
+"Planes, Trains & Automobiles",1987,Comedy,John Hughes,7.6
+Lethal Weapon,1987,Action,Richard Donner,7.6
+Blood Simple,1984,Crime,Joel Coen,7.6
+On Golden Pond,1981,Drama,Mark Rydell,7.6
+Mad Max 2,1981,Action,George Miller,7.6
+The Warriors,1979,Action,Walter Hill,7.6
+The Muppet Movie,1979,Adventure,James Frawley,7.6
+Escape From Alcatraz,1979,Action,Don Siegel,7.6
+Watership Down,1978,Animation,Martin Rosen,7.6
+Midnight Express,1978,Biography,Alan Parker,7.6
+Close Encounters Of The Third Kind,1977,Drama,Steven Spielberg,7.6
+The Long Goodbye,1973,Comedy,Robert Altman,7.6
+Giã¹ La Testa,1971,Drama,Sergio Leone,7.6
+Kelly'S Heroes,1970,Adventure,Brian G. Hutton,7.6
+The Jungle Book,1967,Animation,Wolfgang Reitherman,7.6
+Blowup,1966,Drama,Michelangelo Antonioni,7.6
+A Hard Day'S Night,1964,Comedy,Richard Lester,7.6
+Breakfast At Tiffany'S,1961,Comedy,Blake Edwards,7.6
+Giant,1956,Drama,George Stevens,7.6
+From Here To Eternity,1953,Drama,Fred Zinnemann,7.6
+Lifeboat,1944,Drama,Alfred Hitchcock,7.6
+The 39 Steps,1935,Crime,Alfred Hitchcock,7.6
